@@ -1,6 +1,6 @@
-#Recriando a página inicial do Instagram
+**Recriando a página inicial do Instagram
 
-Projeto desenvolvido no Bootcamp **"HTML Web Developer" ** da Digital Innovation One, com base na aula da Professora Gabriela Pinheiro. 
+Projeto desenvolvido no Bootcamp **"HTML Web Developer"** da Digital Innovation One, com base na aula da Professora Gabriela Pinheiro. 
 
 A proposta era de recriar a página inicial do Instagram, dessa forma, por meio do projeto foi abordado o conceito sobre CSS Flexbox e responsividade. 
 
