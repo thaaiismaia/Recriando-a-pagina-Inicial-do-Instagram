@@ -1,4 +1,4 @@
-**Recriando a página inicial do Instagram
+#Recriando a página inicial do Instagram
 
 Projeto desenvolvido no Bootcamp **"HTML Web Developer"** da Digital Innovation One, com base na aula da Professora Gabriela Pinheiro. 
 
